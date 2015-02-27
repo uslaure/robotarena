@@ -64,7 +64,7 @@ class Arena{
       for($i = $x -2 ; $i <= $x +2 ; $i++){
         $l[] = $this->charAtPosition($i,$j,$graphical);
       }
-      $data[] = $l;
+       $data[] = $l;
     }
 
     return $data;

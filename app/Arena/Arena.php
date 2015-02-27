@@ -67,7 +67,7 @@ class Arena{
         $data[] = $l;
     }
 
-    return $data;
+        return $data;
   }
 
   public function canEnter($x, $y){

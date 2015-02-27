@@ -1,3 +1,3 @@
 <?php
-$file = "coucou";
+$file = "michel";
 echo $file;
